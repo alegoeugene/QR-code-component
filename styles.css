@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.main{
+    padding: 0px;
+    margin: 0%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+img{
+    width: 360px;
+    border-radius: 10px;
+    margin-left: 15px;
+    justify-content: center;
+    justify-items: center;
+}
+.content{
+    padding: 10px;
+    margin: 10px;
+    border-color: white;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.text{
+    text-align: center;
+    font-family: sans-serif;
+}
